@@ -1,0 +1,14 @@
+{
+    "TOKEN1": {
+        "type": "SecureString",
+        "description": "API Token for external service"
+    },
+    "DB_PASSWORD": {
+        "type": "SecureString",
+        "description": "Database password"
+    },
+    "ERP_OAUTH_TOKEN": {
+        "type": "SecureString",
+        "description": "OAuth token for ERP integration"
+    }
+}
